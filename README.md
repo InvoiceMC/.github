@@ -1,0 +1,3 @@
+# InvoiceMC - Minecraft Server
+
+## Munch
