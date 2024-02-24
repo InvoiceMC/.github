@@ -8,6 +8,10 @@ Munch is an `open-source` SQLite annotation API. This API has great performance 
 
 Core is a polished and efficient core plugin for the upcoming best prison server ever!
 
+## 🧐 [Invoice](https://github.com/InvoiceMC/Invoice) - Proxy Plugin for InvoiceMC (Private)
+
+Invoice handles our Credit system and our Discord Bot
+
 ## 🔨 [Hammer](https://github.com/InvoiceMC/Hammer) - Punishment Plugin for InvoiceMC (Private)
 
 Hammer is a customized punishment plugin for naughty user preventention.
