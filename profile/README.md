@@ -8,7 +8,7 @@ Munch is an `open-source` SQLite annotation API. This API has great performance 
 
 Blossom is a very advanced Particle API to suit all your needs, this was made for InvoiceMC although decided to make it public!
 
-## 💯 [Core](https://github.com/InvoiceMC/Core) - Core Plugin for InvoiceMC (Private)
+## 💯 [InvoiceCore](https://github.com/InvoiceMC/InvoiceCore) - Core Plugin for InvoiceMC (Public)
 
 Core is a polished and efficient core plugin for the upcoming best prison server ever!
 
