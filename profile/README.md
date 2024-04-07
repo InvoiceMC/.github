@@ -1,5 +1,8 @@
 # InvoiceMC - Minecraft Server
 
+> [!WARNING]  
+> We have moved to `Jetbrains Space`, these repos will no longer get updated!
+
 ## 🍽️ [Munch](https://github.com/InvoiceMC/Munch) - An SQLite Annotation API (Public)
 
 Munch is an `open-source` SQLite annotation API. This API has great performance and has frequent updates.
